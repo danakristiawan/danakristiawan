@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @danakristiawan
 - 👀 I’m interested in Web Programming
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on VueJs
+- 💞️ I’m looking to collaborate on React
 - 📫 How to reach me, please contact at danakristiawan@gmail.com
 
 <!---
